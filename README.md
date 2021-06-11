@@ -2,7 +2,7 @@
 
 *This repository is a part of Algorithm 02 Assignment; the original repository is [Jin0316/Algorithm](https://github.com/Jin0316/Algorithm).*
 
-You can check out the (edited) notebook at [/TensorFlow_mnist_example.ipynb](https://github.com/EatChangmyeong/Algorithm_02/blob/main/TensorFlow_mnist_example.ipynb).
+You can check out the (edited) notebook at [/TensorFlow_mnist_example.ipynb](https://github.com/EatChangmyeong/Algorithm_02/blob/main/TensorFlow_mnist_example.ipynb); use [nbviewer](https://nbviewer.jupyter.org/github/EatChangmyeong/Algorithm_02/blob/main/TensorFlow_mnist_example.ipynb) if GitHub viewer does not work.
 
 ## The Models
 
